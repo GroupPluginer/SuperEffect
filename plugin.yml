@@ -4,9 +4,9 @@ version: 1.0v
 api: 3.0.0
 author: GroupPluginer
 commands:
-  Super:
+  super:
      description: SuperEffect 1 !
-  Super2:
+  super2:
      description: SuperEffect 2 !
-  Super3:
+  super3:
      description: SuperEffect 3 !
