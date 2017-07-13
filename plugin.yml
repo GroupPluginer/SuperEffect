@@ -3,3 +3,10 @@ main: SE\Main
 version: 1.0v
 api: 3.0.0
 author: GroupPluginer
+commands:
+  Super:
+     description: SuperEffect 1 !
+  Super2:
+     description: SuperEffect 2 !
+  Super3:
+     description: SuperEffect 3 !
